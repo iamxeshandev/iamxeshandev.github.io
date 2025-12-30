@@ -60,8 +60,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <head>
-        <meta property="og:image" content="https://iamxeshandev.github.io/og-image.jpg" />
-        <meta name="twitter:image" content="https://iamxeshandev.github.io/og-image.jpg" />
+        <meta property="og:image" content="https://iamxeshandev.github.io/og-image.png" />
+        <meta name="twitter:image" content="https://iamxeshandev.github.io/og-image.png" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
