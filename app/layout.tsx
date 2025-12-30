@@ -29,6 +29,14 @@ export const metadata: Metadata = {
     locale: "en",
     siteName: "Zeshan Mehmood",
     url: "https://iamxeshandev.github.io",
+    images: [
+      {
+        url: "/og-image.png",
+        width: 1200,
+        height: 630,
+        alt: "Zeshan Mehmood Portfolio",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
@@ -36,6 +44,7 @@ export const metadata: Metadata = {
     description: "Personal portfolio of Zeshan Mehmood",
     creator: "@iamxeshandev",
     site: "@iamxeshandev",
+    images: ["/og-image.png"],
   },
   icons: {
     icon: "/favicon.ico",
